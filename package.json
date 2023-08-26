@@ -1,0 +1,13 @@
+{
+  "name": "@sanjo-addons/sell",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sanjo-addons/library": "^0.5.0",
+    "@sanjo-addons/coroutine": "^2.0.0",
+    "@sanjo-addons/compatibility": "^2.0.2",
+    "@sanjo-addons/events": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
