@@ -1,5 +1,5 @@
 {
-  "name": "@sanjo-addons/sell",
+  "name": "@sanjo-addons/grays-seller",
   "version": "1.0.0",
   "dependencies": {
     "@sanjo-addons/library": "^0.5.0",
