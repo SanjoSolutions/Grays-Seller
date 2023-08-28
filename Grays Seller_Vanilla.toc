@@ -1,6 +1,6 @@
-## Title: Sell
+## Title: Grays Seller
 ## Version: 1.0.0
-## Interface: 100105
+## Interface: 11404
 
 node_modules/@sanjo-addons/library/Library.xml
 
@@ -15,4 +15,4 @@ node_modules/@sanjo-addons/function/Function.xml
 node_modules/@sanjo-addons/object/Object.xml
 node_modules/@sanjo-addons/set/Set.xml
 
-Sell.lua
+Grays Seller.lua

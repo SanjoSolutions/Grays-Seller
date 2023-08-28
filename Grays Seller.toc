@@ -1,0 +1,18 @@
+## Title: Grays Seller
+## Version: 1.0.0
+## Interface: 100105
+
+node_modules/@sanjo-addons/library/Library.xml
+
+node_modules/@sanjo-addons/array/Array.xml
+node_modules/@sanjo-addons/boolean/Boolean.xml
+node_modules/@sanjo-addons/caching/Caching.xml
+node_modules/@sanjo-addons/compatibility/compatibility.xml
+node_modules/@sanjo-addons/coroutine/Coroutine.xml
+node_modules/@sanjo-addons/events/Events.xml
+node_modules/@sanjo-addons/float/Float.xml
+node_modules/@sanjo-addons/function/Function.xml
+node_modules/@sanjo-addons/object/Object.xml
+node_modules/@sanjo-addons/set/Set.xml
+
+Grays Seller.lua
